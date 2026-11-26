@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "channel": "auto",
+  "preset": "morandi",
+  "darkPreset": "onyx",
+  "installedLocale": "zh-CN",
+  "contextLimit": 256000,
+  "modules": {
+    "i18n": true,
+    "metrics": true,
+    "tokenAnalytics": true,
+    "composerWaxSeal": true,
+    "deadlockHealer": true,
+    "coldBootHealer": true,
+    "zoomShortcuts": true,
+    "cdpAutoRelaunch": true,
+    "customCss": true,
+    "customJs": true
+  },
+  "themeVars": {}
+}
